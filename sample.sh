@@ -8,6 +8,6 @@ ID=$(curl -sL http://169.254.169.254/latest/meta-data/instance-id)
 echo "$PH"
 echo "$PIP"
 echo "$PSG"
-echo "$TYPE"
+#echo "$TYPE"
 #echo "$ID" 
 
